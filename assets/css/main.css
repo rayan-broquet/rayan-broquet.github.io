@@ -3918,3 +3918,7 @@ input, select, textarea {
 	border-color: black;
 	border-style: groove;
 }
+
+#message {
+	resize: none;
+}
