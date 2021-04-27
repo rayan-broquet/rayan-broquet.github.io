@@ -3915,7 +3915,7 @@ input, select, textarea {
 	float: right;
 	border-radius: 100%;
 	border-width: 5px;
-	border-color: black;
+	border-color: white;
 	border-style: groove;
 }
 
