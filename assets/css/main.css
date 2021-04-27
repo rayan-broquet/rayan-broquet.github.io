@@ -3927,3 +3927,7 @@ input, select, textarea {
 .texteCenter {
 	text-align: center;
 }
+
+.actions li {
+	margin: auto;
+}
