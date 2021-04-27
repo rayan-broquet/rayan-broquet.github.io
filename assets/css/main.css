@@ -194,6 +194,7 @@ input, select, textarea {
 			margin: 0 0 1.3em 0;
 			position: relative;
 			padding-bottom: 0.35em;
+			text-align: center;
 		}
 
 			h1.major:after {
@@ -3921,4 +3922,8 @@ input, select, textarea {
 
 #message {
 	resize: none;
+}
+
+.texteCenter {
+	text-align: center;
 }
