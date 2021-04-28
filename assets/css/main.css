@@ -3864,7 +3864,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 1439px) {
 
 			#sidebar {
 				display: none;
@@ -3911,13 +3911,15 @@ input, select, textarea {
 		}
 
 .imageCV {
-	width: 30%;
-	height: 30%;
-	float: right;
-	border-radius: 100%;
-	border-width: 5px;
+	width: 50%;
+	height: 50%;
+	border-radius: 10%;
+	border-width: 2px;
 	border-color: white;
 	border-style: solid;
+	padding: 0;
+	margin-left: 25%;
+	margin-bottom: 10%;
 }
 
 #message {
@@ -3939,3 +3941,12 @@ input, select, textarea {
 .actions li {
 	margin: auto;
 }
+
+.inner h1 {
+	text-align: center;
+}
+
+#five .inner {
+	padding-top: 3%;
+}
+
