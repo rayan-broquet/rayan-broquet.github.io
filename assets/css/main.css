@@ -3935,3 +3935,7 @@ input, select, textarea {
 .inner ul.actionsPadding li {
 	padding-left: 0;
 }
+
+.actions li {
+	margin: auto;
+}
